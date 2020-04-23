@@ -1,0 +1,9 @@
+name: duelsreforged
+version: 1.0_REV9_B
+main: io.github.aarnoldgad.duelsreforged.DuelsReforged
+api-version: 1.15
+
+commands:
+  duel:
+    description: Main command for Duels Reforged
+    usage: /duel <challenge | accept | deny >
